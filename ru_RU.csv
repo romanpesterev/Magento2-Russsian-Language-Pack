@@ -1100,28 +1100,28 @@ Edit,Редактировать,module,Magento_Catalog
 "Change Status","Изменить статус",module,Magento_Catalog
 "Update Attributes","Обновить атрибуты",module,Magento_Catalog
 "start typing to search category","start typing to search category",module,Magento_Catalog
-"New Category","New Category",module,Magento_Catalog
+"New Category","Новая категория",module,Magento_Catalog
 "Images (.gif, .jpg, .png)","Изображение (.gif, .jpg, .png)",module,Magento_Catalog
 "Add New Images","Добавить новое Изображение",module,Magento_Catalog
 "Inc. Tax","Inc. Tax",module,Magento_Catalog
-"Does this have a weight?","Does this have a weight?",module,Magento_Catalog
+"Does this have a weight?","Есть ли у этого вес?",module,Magento_Catalog
 Product,Товар,module,Magento_Catalog
 "Notify Low Stock RSS","Notify Low Stock RSS",module,Magento_Catalog
-"Low Stock Products","Low Stock Products",module,Magento_Catalog
+"Low Stock Products","Продукты с низким складским запасом",module,Magento_Catalog
 "%1 has reached a quantity of %2.","%1 has reached a quantity of %2.",module,Magento_Catalog
-Home,Home,module,Magento_Catalog
-"Go to Home Page","Go to Home Page",module,Magento_Catalog
-"Subscribe to RSS Feed","Subscribe to RSS Feed",module,Magento_Catalog
-"Products Comparison List","Products Comparison List",module,Magento_Catalog
+Home,Главная,module,Magento_Catalog
+"Go to Home Page","Перейти на главную страницу",module,Magento_Catalog
+"Subscribe to RSS Feed","Подписаться на RSS",module,Magento_Catalog
+"Products Comparison List","Список сравнения товаров",module,Magento_Catalog
 N/A,N/A,module,Magento_Catalog
 AM,AM,module,Magento_Catalog
 PM,PM,module,Magento_Catalog
 "-- Please Select --","--Пожалуйста, выберите--",module,Magento_Catalog
 "New Products from %1","Новый товары с %1",module,Magento_Catalog
 "New Products","Новые товары",module,Magento_Catalog
-"%1 - Special Products","%1 - Special Products",module,Magento_Catalog
-"Click for price","Click for price",module,Magento_Catalog
-"Special Expires On: %1","Special Expires On: %1",module,Magento_Catalog
+"%1 - Special Products","%1 - Специальные товары",module,Magento_Catalog
+"Click for price","Нажмите для цены",module,Magento_Catalog
+"Special Expires On: %1","Специальные условия истекают: %1",module,Magento_Catalog
 "Price: %1","Price: %1",module,Magento_Catalog
 "Special Price: %1","Special Price: %1",module,Magento_Catalog
 "Special Products","Special Products",module,Magento_Catalog
@@ -1131,121 +1131,121 @@ PM,PM,module,Magento_Catalog
 "Something went wrong while trying to delete the category.","Something went wrong while trying to delete the category.",module,Magento_Catalog
 Categories,Categories,module,Magento_Catalog
 "Category is not available for requested store.","Category is not available for requested store.",module,Magento_Catalog
-"There was a category move error.","There was a category move error.",module,Magento_Catalog
-"You moved the category.","You moved the category.",module,Magento_Catalog
+"There was a category move error.","Произошла ошибка при перемещении категории.",module,Magento_Catalog
+"You moved the category.","Вы переместили категорию.",module,Magento_Catalog
 "The ""%1"" attribute is required. Enter and try again.","The ""%1"" attribute is required. Enter and try again.",module,Magento_Catalog
 "Something went wrong while saving the category.","Something went wrong while saving the category.",module,Magento_Catalog
-"You saved the category.","You saved the category.",module,Magento_Catalog
-"Please select products for attributes update.","Please select products for attributes update.",module,Magento_Catalog
-"Please make sure to define SKU values for all processed products.","Please make sure to define SKU values for all processed products.",module,Magento_Catalog
-"Message is added to queue","Message is added to queue",module,Magento_Catalog
-"Something went wrong while updating the product(s) attributes.","Something went wrong while updating the product(s) attributes.",module,Magento_Catalog
-"Update attributes for ' . . ' selected products","Update attributes for ' . . ' selected products",module,Magento_Catalog
-"Something went wrong while processing the request.","Something went wrong while processing the request.",module,Magento_Catalog
-"Unable to add attribute","Unable to add attribute",module,Magento_Catalog
-"Attributes were missing and must be specified.","Attributes were missing and must be specified.",module,Magento_Catalog
+"You saved the category.","Вы сохранили категорию.",module,Magento_Catalog
+"Please select products for attributes update.","Пожалуйста, выберите продукты для обновления атрибутов.",module,Magento_Catalog
+"Please make sure to define SKU values for all processed products.","Пожалуйста, убедитесь, что вы определили значения SKU для всех обработанных товаров.",module,Magento_Catalog
+"Message is added to queue","Сообщение добавляется в очередь",module,Magento_Catalog
+"Something went wrong while updating the product(s) attributes.","Что-то пошло не так при обновлении атрибутов товара(-ов).",module,Magento_Catalog
+"Update attributes for ' . . ' selected products","Обновление атрибутов для ' . . ' выбранных товаров",module,Magento_Catalog
+"Something went wrong while processing the request.","Что-то пошло не так во время обработки запроса.",module,Magento_Catalog
+"Unable to add attribute","Невозможно добавить атрибут",module,Magento_Catalog
+"Attributes were missing and must be specified.","Атрибуты отсутствуют и должны быть указаны.",module,Magento_Catalog
 Catalog,Каталог,module,Magento_Catalog
-"Manage Product Attributes","Manage Product Attributes",module,Magento_Catalog
-"We can't delete the attribute.","We can't delete the attribute.",module,Magento_Catalog
-"You deleted the product attribute.","You deleted the product attribute.",module,Magento_Catalog
-"We can't find an attribute to delete.","We can't find an attribute to delete.",module,Magento_Catalog
-"This attribute no longer exists.","This attribute no longer exists.",module,Magento_Catalog
-"This attribute cannot be edited.","This attribute cannot be edited.",module,Magento_Catalog
-"Edit Product Attribute","Edit Product Attribute",module,Magento_Catalog
-"The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_Catalog
+"Manage Product Attributes","Управление атрибутами товара",module,Magento_Catalog
+"We can't delete the attribute.","Мы не можем удалить атрибут.",module,Magento_Catalog
+"You deleted the product attribute.","Вы удалили атрибут товара.",module,Magento_Catalog
+"We can't find an attribute to delete.","Мы не можем найти атрибут для удаления.",module,Magento_Catalog
+"This attribute no longer exists.","Этот атрибут больше не существует.",module,Magento_Catalog
+"This attribute cannot be edited.","Этот атрибут не может быть отредактирован.",module,Magento_Catalog
+"Edit Product Attribute","Редактировать атрибут товара",module,Magento_Catalog
+"The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","Атрибут не удалось сохранить из-за ошибки. Проверьте свои данные и повторите попытку. Если ошибка сохраняется, повторите попытку позже.",module,Magento_Catalog
 "An attribute set named '%1' already exists.","An attribute set named '%1' already exists.",module,Magento_Catalog
-"Something went wrong while saving the attribute.","Something went wrong while saving the attribute.",module,Magento_Catalog
-"We can't update the attribute.","We can't update the attribute.",module,Magento_Catalog
-"You saved the product attribute.","You saved the product attribute.",module,Magento_Catalog
-"The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.",module,Magento_Catalog
+"Something went wrong while saving the attribute.","Что-то пошло не так при сохранении атрибута.",module,Magento_Catalog
+"We can't update the attribute.","Мы не можем обновить атрибут.",module,Magento_Catalog
+"You saved the product attribute.","Вы сохранили атрибут товара.",module,Magento_Catalog
+"The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.","Атрибут не удалось проверить из-за ошибки. Проверьте свои данные и повторите попытку. Если ошибка сохраняется, повторите попытку позже.",module,Magento_Catalog
 "Code (%1) is a reserved key and cannot be used as attribute code.","Code (%1) is a reserved key and cannot be used as attribute code.",module,Magento_Catalog
 "An attribute with this code already exists.","An attribute with this code already exists.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","An attribute with the same code (%1) already exists.",module,Magento_Catalog
 "The value of Admin must be unique. (%1)","The value of Admin must be unique. (%1)",module,Magento_Catalog
 "The value of Admin scope can't be empty.","The value of Admin scope can't be empty.",module,Magento_Catalog
-"You duplicated the product.","You duplicated the product.",module,Magento_Catalog
-"This product doesn't exist.","This product doesn't exist.",module,Magento_Catalog
-"Invalid product id. Should be numeric value greater than 0","Invalid product id. Should be numeric value greater than 0",module,Magento_Catalog
+"You duplicated the product.","Вы продублировали товар.",module,Magento_Catalog
+"This product doesn't exist.","Этого товара не существует.",module,Magento_Catalog
+"Invalid product id. Should be numeric value greater than 0","Неверный id товара. Должно быть числовое значение больше 0",module,Magento_Catalog
 Products,Products,module,Magento_Catalog
-"A group with the same name already exists.","A group with the same name already exists.",module,Magento_Catalog
-"Something went wrong while saving this group.","Something went wrong while saving this group.",module,Magento_Catalog
+"A group with the same name already exists.","Группа с таким же именем уже существует.",module,Magento_Catalog
+"Something went wrong while saving this group.","Что-то пошло не так при сохранении этой группы.",module,Magento_Catalog
 "A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Catalog
 "A total of %1 record(s) haven't been deleted. Please see server logs for more details.","A total of %1 record(s) haven't been deleted. Please see server logs for more details.",module,Magento_Catalog
 "A total of %1 record(s) have been updated.","A total of %1 record(s) have been updated.",module,Magento_Catalog
-"Something went wrong while updating the product(s) status.","Something went wrong while updating the product(s) status.",module,Magento_Catalog
-"The product was unable to be saved. Please try again.","The product was unable to be saved. Please try again.",module,Magento_Catalog
-"You saved the product.","You saved the product.",module,Magento_Catalog
+"Something went wrong while updating the product(s) status.","Что-то пошло не так при обновлении статуса товара(-ов).",module,Magento_Catalog
+"The product was unable to be saved. Please try again.","Товар не удалось сохранить. Пожалуйста, попробуйте еще раз.",module,Magento_Catalog
+"You saved the product.","Вы сохранили товар.",module,Magento_Catalog
 "SKU for product %1 has been changed to %2.","SKU for product %1 has been changed to %2.",module,Magento_Catalog
-"The image cannot be removed as it has been assigned to the other image role","The image cannot be removed as it has been assigned to the other image role",module,Magento_Catalog
+"The image cannot be removed as it has been assigned to the other image role","Изображение не может быть удалено, так как оно назначено на роль другого изображения",module,Magento_Catalog
 "The value of attribute(s) ""%1"" must be unique","The value of attribute(s) ""%1"" must be unique",module,Magento_Catalog
-"New Attribute Set","New Attribute Set",module,Magento_Catalog
-"The attribute set has been removed.","The attribute set has been removed.",module,Magento_Catalog
-"We can't delete this set right now.","We can't delete this set right now.",module,Magento_Catalog
-"New Set","New Set",module,Magento_Catalog
-"Manage Product Sets","Manage Product Sets",module,Magento_Catalog
-"Manage Attribute Sets","Manage Attribute Sets",module,Magento_Catalog
-"This attribute set no longer exists.","This attribute set no longer exists.",module,Magento_Catalog
-"You saved the attribute set.","You saved the attribute set.",module,Magento_Catalog
-"Something went wrong while saving the attribute set.","Something went wrong while saving the attribute set.",module,Magento_Catalog
-"You cleared the comparison list.","You cleared the comparison list.",module,Magento_Catalog
-"Something went wrong  clearing the comparison list.","Something went wrong  clearing the comparison list.",module,Magento_Catalog
-"You removed product %1 from the comparison list.","You removed product %1 from the comparison list.",module,Magento_Catalog
+"New Attribute Set","Новый набор атрибутов",module,Magento_Catalog
+"The attribute set has been removed.","Набор атрибутов был удален.",module,Magento_Catalog
+"We can't delete this set right now.","Мы не можем удалить этот набор прямо сейчас.",module,Magento_Catalog
+"New Set","Новый набор",module,Magento_Catalog
+"Manage Product Sets","Управление наборами товаров",module,Magento_Catalog
+"Manage Attribute Sets","Управление наборами атрибутов",module,Magento_Catalog
+"This attribute set no longer exists.","Этот набор атрибутов больше не существует.",module,Magento_Catalog
+"You saved the attribute set.","Вы сохранили набор атрибутов.",module,Magento_Catalog
+"Something went wrong while saving the attribute set.","Что-то пошло не так при сохранении набора атрибутов.",module,Magento_Catalog
+"You cleared the comparison list.","Вы очистили список сравнения.",module,Magento_Catalog
+"Something went wrong  clearing the comparison list.","Что-то пошло не так при очистке списка сравнения.",module,Magento_Catalog
+"You removed product %1 from the comparison list.","Вы удалили товар %1 из списка сравнения.",module,Magento_Catalog
 "1 item","1 item",module,Magento_Catalog
 "%1 items","%1 items",module,Magento_Catalog
 "The specified Catalog media URL format is not supported.","The specified Catalog media URL format is not supported.",module,Magento_Catalog
 "Are you sure you want to remove this item from your Compare Products list?","Are you sure you want to remove this item from your Compare Products list?",module,Magento_Catalog
 "Are you sure you want to remove all items from your Compare Products list?","Are you sure you want to remove all items from your Compare Products list?",module,Magento_Catalog
-"Invalid attribute %1","Invalid attribute %1",module,Magento_Catalog
-Grid,Grid,module,Magento_Catalog
-List,List,module,Magento_Catalog
-All,All,module,Magento_Catalog
-"Bad controller interface for showing product","Bad controller interface for showing product",module,Magento_Catalog
-"Product is not loaded","Product is not loaded",module,Magento_Catalog
-"Selected layout update is not available","Selected layout update is not available",module,Magento_Catalog
-"Sorry, something went wrong during product attributes update. Please see log for details.","Sorry, something went wrong during product attributes update. Please see log for details.",module,Magento_Catalog
-"Custom layout update text cannot be changed, only removed","Custom layout update text cannot be changed, only removed",module,Magento_Catalog
+"Invalid attribute %1","Неверный атрибут %1",module,Magento_Catalog
+Grid,Сетка,module,Magento_Catalog
+List,Список,module,Magento_Catalog
+All,Все,module,Magento_Catalog
+"Bad controller interface for showing product","Плохой интерфейс контроллера для демонстрации товара",module,Magento_Catalog
+"Product is not loaded","Товар не загружен",module,Magento_Catalog
+"Selected layout update is not available","Обновление выбранного макета недоступно",module,Magento_Catalog
+"Sorry, something went wrong during product attributes update. Please see log for details.","Извините, что-то пошло не так во время обновления атрибутов товара. Пожалуйста, посмотрите журнал для получения подробной информации.",module,Magento_Catalog
+"Custom layout update text cannot be changed, only removed","Текст обновления пользовательского макета нельзя изменить, только удалить",module,Magento_Catalog
 "Using restricted HTML elements for ""%1"". %2","Using restricted HTML elements for ""%1"". %2",module,Magento_Catalog
 "Make sure the To Date is later than or the same as the From Date.","Make sure the To Date is later than or the same as the From Date.",module,Magento_Catalog
-"Sorry, but we can't find the new parent category you selected.","Sorry, but we can't find the new parent category you selected.",module,Magento_Catalog
-"Sorry, but we can't find the new category you selected.","Sorry, but we can't find the new category you selected.",module,Magento_Catalog
-"We can't move the category because the parent category name matches the child category name.","We can't move the category because the parent category name matches the child category name.",module,Magento_Catalog
-"Something went wrong while getting the image url.","Something went wrong while getting the image url.",module,Magento_Catalog
-"Can't delete root category.","Can't delete root category.",module,Magento_Catalog
+"Sorry, but we can't find the new parent category you selected.","Извините, но мы не можем найти выбранную вами новую родительскую категорию.",module,Magento_Catalog
+"Sorry, but we can't find the new category you selected.","Извините, но мы не можем найти выбранную вами новую категорию.",module,Magento_Catalog
+"We can't move the category because the parent category name matches the child category name.","Мы не можем переместить категорию, потому что имя родительской категории совпадает с именем дочерней категории.",module,Magento_Catalog
+"Something went wrong while getting the image url.","Что-то пошло не так при получении url изображения.",module,Magento_Catalog
+"Can't delete root category.","Невозможно удалить корневую категорию.",module,Magento_Catalog
 "The value of the ""%1"" attribute isn't unique. Set a unique value and try again.","The value of the ""%1"" attribute isn't unique. Set a unique value and try again.",module,Magento_Catalog
-"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Default Product Listing Sort by does not exist in Available Product Listing Sort By.",module,Magento_Catalog
-"No layout updates","No layout updates",module,Magento_Catalog
-"Products only","Products only",module,Magento_Catalog
-"Static block only","Static block only",module,Magento_Catalog
-"Static block and products","Static block and products",module,Magento_Catalog
-"Please select a static block.","Please select a static block.",module,Magento_Catalog
+"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Сортировка списка товаров по умолчанию не существует в списке доступных сортировок.",module,Magento_Catalog
+"No layout updates","Отсутствие обновлений макета",module,Magento_Catalog
+"Products only","Только товары",module,Magento_Catalog
+"Static block only","Только статический блок",module,Magento_Catalog
+"Static block and products","Статический блок и изделия",module,Magento_Catalog
+"Please select a static block.","Пожалуйста, выберите статический блок.",module,Magento_Catalog
 frontend_label,frontend_label,module,Magento_Catalog
 "Not allowed to edit the category's design attributes","Not allowed to edit the category's design attributes",module,Magento_Catalog
 "Could not save product ""%1"" with position %2 to category %3","Could not save product ""%1"" with position %2 to category %3",module,Magento_Catalog
 "The category doesn't contain the specified product.","The category doesn't contain the specified product.",module,Magento_Catalog
 "Could not save product ""%product"" with position %position to category %category","Could not save product ""%product"" with position %position to category %category",module,Magento_Catalog
-"The category doesn't contain the specified products.","The category doesn't contain the specified products.",module,Magento_Catalog
+"The category doesn't contain the specified products.","Категория не содержит указанных товаров.",module,Magento_Catalog
 "Could not save products ""%products"" to category %category","Could not save products ""%products"" to category %category",module,Magento_Catalog
 "Operation do not allow to move a parent category to any of children category","Operation do not allow to move a parent category to any of children category",module,Magento_Catalog
-"Could not move category","Could not move category",module,Magento_Catalog
-"Could not save category: %1","Could not save category: %1",module,Magento_Catalog
-"Cannot delete category with id %1","Cannot delete category with id %1",module,Magento_Catalog
-"This customer is not authorized to access this list","This customer is not authorized to access this list",module,Magento_Catalog
+"Could not move category","Не удалось переместить категорию",module,Magento_Catalog
+"Could not save category: %1","Не удалось сохранить категорию: %1",module,Magento_Catalog
+"Cannot delete category with id %1","Невозможно удалить категорию с id %1",module,Magento_Catalog
+"This customer is not authorized to access this list","Данный покупатель не имеет права доступа к этому списку",module,Magento_Catalog
 "-- Please Select a Category --","-- Пожалуйста, выберите категорию --",module,Magento_Catalog
-"Grid Only","Grid Only",module,Magento_Catalog
-"List Only","List Only",module,Magento_Catalog
-"Grid (default) / List","Grid (default) / List",module,Magento_Catalog
-"List (default) / Grid","List (default) / Grid",module,Magento_Catalog
+"Grid Only","Только сетка",module,Magento_Catalog
+"List Only","Только список",module,Magento_Catalog
+"Grid (default) / List","Сетка (по-умолчанию) / Список",module,Magento_Catalog
+"List (default) / Grid","Список (по-умолчанию) / Сетка",module,Magento_Catalog
 "Automatic (equalize price ranges)","Automatic (equalize price ranges)",module,Magento_Catalog
 "Automatic (equalize product counts)","Automatic (equalize product counts)",module,Magento_Catalog
 Manual,Manual,module,Magento_Catalog
 Fixed,Fixed,module,Magento_Catalog
-Percent,Percent,module,Magento_Catalog
-Discount,Discount,module,Magento_Catalog
+Percent,Процент,module,Magento_Catalog
+Discount,Скидка,module,Magento_Catalog
 "-- Please Select --","--Пожалуйста, выберите--",module,Magento_Catalog
 "Product Thumbnail Itself","Product Thumbnail Itself",module,Magento_Catalog
 "Parent Product Thumbnail","Parent Product Thumbnail",module,Magento_Catalog
 "12h AM/PM","12h AM/PM",module,Magento_Catalog
-24h,24h,module,Magento_Catalog
+24h,24ч,module,Magento_Catalog
 Stretch,Stretch,module,Magento_Catalog
 Tile,Tile,module,Magento_Catalog
 Top/Left,Top/Left,module,Magento_Catalog
@@ -1410,40 +1410,40 @@ message,message,module,Magento_Catalog
 "Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
 "Lock wait timeout","Lock wait timeout",module,Magento_Catalog
 123,123,module,Magento_Catalog
-Select...,Select...,module,Magento_Catalog
-Images,Images,module,Magento_Catalog
-"Edit ","Edit ",module,Magento_Catalog
+Select...,Выбрать...,module,Magento_Catalog
+Images,Изображения,module,Magento_Catalog
+"Edit ","Редактировать ",module,Magento_Catalog
 "Category with ID: %s doesn't exist","Category with ID: %s doesn't exist",module,Magento_Catalog
 "Product Name or SKU","Product Name or SKU",module,Magento_Catalog
 "Start typing to find products","Start typing to find products",module,Magento_Catalog
 "Product with ID: %s doesn't exist","Product with ID: %s doesn't exist",module,Magento_Catalog
-"Advanced Pricing","Advanced Pricing",module,Magento_Catalog
+"Advanced Pricing","Расширенное ценообразование",module,Magento_Catalog
 "Customer Group Price","Customer Group Price",module,Magento_Catalog
 "Customer Group","Customer Group",module,Magento_Catalog
 "Special Price From","Special Price From",module,Magento_Catalog
 To,To,module,Magento_Catalog
-Done,Done,module,Magento_Catalog
-"Product Alerts","Product Alerts",module,Magento_Catalog
+Done,Выполнено,module,Magento_Catalog
+"Product Alerts","Оповещения о продукции",module,Magento_Catalog
 "Alert stock","Alert stock",module,Magento_Catalog
 "Alert Stock","Alert Stock",module,Magento_Catalog
 "Alert price","Alert price",module,Magento_Catalog
 "Alert Price","Alert Price",module,Magento_Catalog
-"Add Selected","Add Selected",module,Magento_Catalog
-"Select Attribute","Select Attribute",module,Magento_Catalog
-"Create New Attribute","Create New Attribute",module,Magento_Catalog
-"Customizable Options","Customizable Options",module,Magento_Catalog
-"Custom options let customers choose the product variations they want.","Custom options let customers choose the product variations they want.",module,Magento_Catalog
-"Add Option","Add Option",module,Magento_Catalog
-"New Option","New Option",module,Magento_Catalog
-"Select Product","Select Product",module,Magento_Catalog
-"Option Title","Option Title",module,Magento_Catalog
-"Add Value","Add Value",module,Magento_Catalog
-Title,Title,module,Magento_Catalog
-"Option Type","Option Type",module,Magento_Catalog
-Required,Required,module,Magento_Catalog
-"Price Type","Price Type",module,Magento_Catalog
-"Max Characters","Max Characters",module,Magento_Catalog
-"Compatible File Extensions","Compatible File Extensions",module,Magento_Catalog
+"Add Selected","Добавить выбранное",module,Magento_Catalog
+"Select Attribute","Выберите атрибут",module,Magento_Catalog
+"Create New Attribute","Создать новый атрибут",module,Magento_Catalog
+"Customizable Options","Настраиваемые параметры",module,Magento_Catalog
+"Custom options let customers choose the product variations they want.","Настраиваемые параметры позволяют покупателям выбирать нужные им варианты товара.",module,Magento_Catalog
+"Add Option","Добавить параметр",module,Magento_Catalog
+"New Option","Новый параметр",module,Magento_Catalog
+"Select Product","Выбрать товар",module,Magento_Catalog
+"Option Title","Название параметра",module,Magento_Catalog
+"Add Value","Добавить значение",module,Magento_Catalog
+Title,Название,module,Magento_Catalog
+"Option Type","Тип параметра",module,Magento_Catalog
+Required,Требуется,module,Magento_Catalog
+"Price Type","Тип цены",module,Magento_Catalog
+"Max Characters","Максимальное количество символов",module,Magento_Catalog
+"Compatible File Extensions","Совместимые расширения файлов",module,Magento_Catalog
 "Enter separated extensions, like: png, jpg, gif.","Enter separated extensions, like: png, jpg, gif.",module,Magento_Catalog
 "Maximum Image Size","Maximum Image Size",module,Magento_Catalog
 "Please leave blank if it is not an image.","Please leave blank if it is not an image.",module,Magento_Catalog
