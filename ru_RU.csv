@@ -1559,7 +1559,7 @@ Role,Роль,module,Magento_Catalog
 "Buy %1 for %2 each","Buy %1 for %2 each",module,Magento_Catalog
 "You added product %1 to the <a href=""%2"">comparison list</a>.","Вы добавили товар %1 в <a href=""%2"">список сравнения</a>.",module,Magento_Catalog
 "Shop By","Shop By",module,Magento_Catalog
-"Shopping Options","Shopping Options",module,Magento_Catalog
+"Shopping Options","Параметры покупки",module,Magento_Catalog
 "Compare Products","Сравнение товаров",module,Magento_Catalog
 "Print This Page","Print This Page",module,Magento_Catalog
 "Remove Product","Remove Product",module,Magento_Catalog
@@ -3850,7 +3850,7 @@ Remove,Удалить,module,Magento_LayeredNavigation
 "Remove This Item","Удалить эту позицию",module,Magento_LayeredNavigation
 "Shop By","Shop By",module,Magento_LayeredNavigation
 "Clear All","Очистить все",module,Magento_LayeredNavigation
-"Shopping Options","Параметры покупок",module,Magento_LayeredNavigation
+"Shopping Options","Параметры покупки",module,Magento_LayeredNavigation
 "Login as Customer: Select Store","Login as Customer: Select Store",module,Magento_LoginAsCustomerAdminUi
 "You are about to Login as Customer","You are about to Login as Customer",module,Magento_LoginAsCustomerAdminUi
 "Actions taken while in ""Login as Customer"" will affect actual customer data.","Actions taken while in ""Login as Customer"" will affect actual customer data.",module,Magento_LoginAsCustomerAdminUi
@@ -5405,9 +5405,9 @@ Back,Назад,module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 Summary,Кратко,module,Magento_Review
 "Submit Review","Отправить отзыв",module,Magento_Review
-"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>",module,Magento_Review
-"Add Your Review","Add Your Review",module,Magento_Review
-"%1 Review(s)","%1 Review(s)",module,Magento_Review
+"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Только зарегистрированные покупатели могут оставлять отзывы. Пожалуйста <a href=""%1"">войдите</a> или <a href=""%2"">зарегистрируйтесь</a>",module,Magento_Review
+"Add Your Review","Добавить отзыв",module,Magento_Review
+"%1 Review(s)","%1 Отзыв(-ы)",module,Magento_Review
 "Review by","Review by",module,Magento_Review
 "Posted on","Posted on",module,Magento_Review
 "Back to Main Product Info","Back to Main Product Info",module,Magento_Review
@@ -7719,7 +7719,7 @@ Remove,Удалить,theme,frontend/Magento/luma
 "Remove This Item","Удалить эту позицию",theme,frontend/Magento/luma
 "Shop By","Shop By",theme,frontend/Magento/luma
 "Clear All","Очистить все",theme,frontend/Magento/luma
-"Shopping Options","Shopping Options",theme,frontend/Magento/luma
+"Shopping Options","Параметры покупки",theme,frontend/Magento/luma
 Country,Страна,module,PayPal_Braintree
 "Allowed Credit Card Types","Allowed Credit Card Types",module,PayPal_Braintree
 "Add Rule","Добавить правило",module,PayPal_Braintree
@@ -8521,67 +8521,67 @@ Leave,Leave,module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Checkout
 "Field ","Field ",module,Magento_Checkout
 " is required."," is required.",module,Magento_Checkout
-"Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later.",module,Magento_Checkout
-"Are you sure you want to remove all items from your shopping cart?","Are you sure you want to remove all items from your shopping cart?",module,Magento_Checkout
-"Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
+"Something went wrong with your request. Please try again later.","Что-то пошло не так с вашим запросом. Пожалуйста, повторите попытку позже.",module,Magento_Checkout
+"Are you sure you want to remove all items from your shopping cart?","Вы уверены, что хотите удалить все товары из своей корзины?",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","Вы уверены, что хотите удалить этот товар из корзины?",module,Magento_Checkout
 "Review & Payments","Обзор заказа и оплата",module,Magento_Checkout
 "Select a new payment method","Выберите новый способ оплаты",module,Magento_Checkout
-Shipping,Shipping,module,Magento_Checkout
-"Save Address","Save Address",module,Magento_Checkout
-"Please specify a regionId in shipping address.","Please specify a regionId in shipping address.",module,Magento_Checkout
-"New Product Review","New Product Review",module,Magento_ConfigurableProduct
-"Here are the products you're about to create.","Here are the products you're about to create.",module,Magento_ConfigurableProduct
-"You created these products for this configuration.","You created these products for this configuration.",module,Magento_ConfigurableProduct
-"Disassociated Products","Disassociated Products",module,Magento_ConfigurableProduct
-"These products are not associated.","These products are not associated.",module,Magento_ConfigurableProduct
-"Incl. Tax","Incl. Tax",module,Magento_ConfigurableProduct
-"Choose a new product to delete and replace the current product configuration.","Choose a new product to delete and replace the current product configuration.",module,Magento_ConfigurableProduct
-"An attribute has been removed. This attribute will no longer appear in your configurations.","An attribute has been removed. This attribute will no longer appear in your configurations.",module,Magento_ConfigurableProduct
-"Select options for all attributes or remove unused attributes.","Select options for all attributes or remove unused attributes.",module,Magento_ConfigurableProduct
-"Choose this option to delete and replace extension data for all past configurations.","Choose this option to delete and replace extension data for all past configurations.",module,Magento_ConfigurableProduct
-"Please select attribute for {section} section.","Please select attribute for {section} section.",module,Magento_ConfigurableProduct
-"Please fill in the values for {section} section.","Please fill in the values for {section} section.",module,Magento_ConfigurableProduct
-"Please fill-in correct values.","Please fill-in correct values.",module,Magento_ConfigurableProduct
-"Please select image(s) for your attribute.","Please select image(s) for your attribute.",module,Magento_ConfigurableProduct
+Shipping,Доставка,module,Magento_Checkout
+"Save Address","Сохранить адрес",module,Magento_Checkout
+"Please specify a regionId in shipping address.","Пожалуйста, укажите ID региона в адресе доставки.",module,Magento_Checkout
+"New Product Review","Новый обзор товара",module,Magento_ConfigurableProduct
+"Here are the products you're about to create.","Вот товары, которые вы собираетесь создать.",module,Magento_ConfigurableProduct
+"You created these products for this configuration.","Вы создали эти товары для данной конфигурации.",module,Magento_ConfigurableProduct
+"Disassociated Products","Диссоциированные продукты",module,Magento_ConfigurableProduct
+"These products are not associated.","Эти товары не связаны между собой.",module,Magento_ConfigurableProduct
+"Incl. Tax","Включая налог",module,Magento_ConfigurableProduct
+"Choose a new product to delete and replace the current product configuration.","Выберите новый товар для удаления и замены текущей конфигурации товара.",module,Magento_ConfigurableProduct
+"An attribute has been removed. This attribute will no longer appear in your configurations.","Атрибут был удален. Этот атрибут больше не будет отображаться в ваших конфигурациях.",module,Magento_ConfigurableProduct
+"Select options for all attributes or remove unused attributes.","Выберите параметры для всех атрибутов или удалите неиспользуемые атрибуты.",module,Magento_ConfigurableProduct
+"Choose this option to delete and replace extension data for all past configurations.","Выберите этот параметр, чтобы удалить и заменить данные расширения для всех прошлых конфигураций.",module,Magento_ConfigurableProduct
+"Please select attribute for {section} section.","Пожалуйста, выберите атрибут для раздела {section}.",module,Magento_ConfigurableProduct
+"Please fill in the values for {section} section.","Пожалуйста, заполните значения для раздела {section}.",module,Magento_ConfigurableProduct
+"Please fill-in correct values.","Пожалуйста, заполните правильные значения.",module,Magento_ConfigurableProduct
+"Please select image(s) for your attribute.","Пожалуйста, выберите изображение(-я) для вашего атрибута.",module,Magento_ConfigurableProduct
 "Please choose image(s).","Пожалуйста, выберите изображение(-я).",module,Magento_ConfigurableProduct
 "We could not detect a size.","Мы не смогли определить размер.",module,Magento_ConfigurableProduct
 "We don't recognize or support this file extension type.","Мы не распознаем и не поддерживаем этот тип расширения файла.",module,Magento_ConfigurableProduct
-"When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.","When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.",module,Magento_ConfigurableProduct
+"When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.","Когда вы удаляете или добавляете атрибут, мы автоматически обновляем все конфигурации, и вам нужно будет воссоздать текущие конфигурации вручную.",module,Magento_ConfigurableProduct
 "Please select attribute(s).","Пожалуйста, выберите атрибут(-ы).",module,Magento_ConfigurableProduct
 "Generate Products","Сгенерировать товары",module,Magento_ConfigurableProduct
 "Something went wrong.","Что-то пошло не так.",module,Magento_ConfigurableProduct
-"Cookies are disabled in your browser.","Cookies are disabled in your browser.",module,Magento_Cookie
+"Cookies are disabled in your browser.","Cookies отключены в вашем браузере.",module,Magento_Cookie
 "Are you sure you want to do this?","Вы уверены, что хотите это сделать?",module,Magento_Customer
-"Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later.",module,Magento_Customer
+"Sorry, there has been an error processing your request. Please try again later.","Извините, при обработке вашего запроса произошла ошибка. Пожалуйста, повторите попытку позже.",module,Magento_Customer
 "Could not authenticate. Please try again later","Не удалось пройти аутентификацию. Пожалуйста, повторите попытку позже",module,Magento_Customer
 "Are you sure you want to delete this address?","Вы уверены, что хотите удалить этот адрес?",module,Magento_Customer
 "Provided Zip/Postal Code seems to be invalid.","Указанный почтовый индекс неправильный.",module,Magento_Customer
 " Example: "," Пример: ",module,Magento_Customer
-"If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Customer
+"If you believe it is the right one you can ignore this notice.","Если вы считаете, что это правильный вариант, вы можете проигнорировать это уведомление.",module,Magento_Customer
 Weak,Слабый,module,Magento_Customer
 Medium,Средний,module,Magento_Customer
 Strong,Сильный,module,Magento_Customer
 "Very Strong","Очень сильный",module,Magento_Customer
 "Invalid date","Неправильная дата",module,Magento_Customer
-"The Date of Birth should not be greater than today.","The Date of Birth should not be greater than today.",module,Magento_Customer
-"Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
+"The Date of Birth should not be greater than today.","Дата рождения не должна быть больше, чем сегодняшняя.",module,Magento_Customer
+"Guest checkout is disabled.","Оформление заказа для гостей отключено.",module,Magento_Customer
 "Field ","Поле ",module,Magento_Dhl
-" is required."," is required.",module,Magento_Dhl
-"We could not detect a size.","We could not detect a size.",module,Magento_Downloadable
-"These changes affect all related products.","These changes affect all related products.",module,Magento_Eav
+" is required."," требуется.",module,Magento_Dhl
+"We could not detect a size.","Мы не смогли определить размер.",module,Magento_Downloadable
+"These changes affect all related products.","Эти изменения затрагивают все сопутствующие товары.",module,Magento_Eav
 "Field ","Поле ",module,Magento_Fedex
 " is required."," требуется.",module,Magento_Fedex
-"Instant Purchase","Instant Purchase",module,Magento_InstantPurchase
-"Instant Purchase Confirmation","Instant Purchase Confirmation",module,Magento_InstantPurchase
-"Are you sure you want to place order and pay?","Are you sure you want to place order and pay?",module,Magento_InstantPurchase
+"Instant Purchase","Мгновенная покупка",module,Magento_InstantPurchase
+"Instant Purchase Confirmation","Подтверждение мгновенной покупки",module,Magento_InstantPurchase
+"Are you sure you want to place order and pay?","Вы уверены, что хотите сделать заказ и оплатить его?",module,Magento_InstantPurchase
 "Shipping Address","Адрес доставки",module,Magento_InstantPurchase
-"Billing Address","Billing Address",module,Magento_InstantPurchase
+"Billing Address","Адрес для выставления счета",module,Magento_InstantPurchase
 "Payment Method","Способ оплаты",module,Magento_InstantPurchase
 "Shipping Method","Способ доставки",module,Magento_InstantPurchase
-"Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Integration
-"Popup Blocker is enabled! Please add this site to your exception list.","Popup Blocker is enabled! Please add this site to your exception list.",module,Magento_Integration
-Allow,Allow,module,Magento_Integration
-Done,Done,module,Magento_Integration
+"Sorry, something went wrong. Please try again later.","Извините, что-то пошло не так. Пожалуйста, повторите попытку позже.",module,Magento_Integration
+"Popup Blocker is enabled! Please add this site to your exception list.","Блокировщик всплывающих окон включен! Пожалуйста, добавьте этот сайт в список исключений.",module,Magento_Integration
+Allow,Разрешить,module,Magento_Integration
+Done,Выполнено,module,Magento_Integration
 "Show more...","Показать больше...",module,Magento_InventoryBundleProductAdminUi
 "New Product Review","Обзор нового товара",module,Magento_InventoryConfigurableProductAdminUi
 "Here are the products you're about to create.","Здесь представлены товары, которые вы собираетесь создать.",module,Magento_InventoryConfigurableProductAdminUi
@@ -8606,7 +8606,7 @@ Close,Закрыть,module,Magento_LoginAsCustomerAssistance
 "Delete assets","Delete assets",module,Magento_MediaGalleryUi
 Delete,Удалить,module,Magento_MediaGalleryUi
 "There was an error on attempt to delete the images.","There was an error on attempt to delete the images.",module,Magento_MediaGalleryUi
-"You have successfully removed the images.","You have successfully removed the images.",module,Magento_MediaGalleryUi
+"You have successfully removed the images.","Вы успешно удалили изображения.",module,Magento_MediaGalleryUi
 "There was an error on attempt to delete the image.","There was an error on attempt to delete the image.",module,Magento_MediaGalleryUi
 "Could not retrieve image details.","Could not retrieve image details.",module,Magento_MediaGalleryUi
 "Could not save image details.","Could not save image details.",module,Magento_MediaGalleryUi
